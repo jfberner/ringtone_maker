@@ -17,3 +17,7 @@ Tu run the code and check your new ringtone you will need the `Rmusic` package. 
 ```
 remotes::install_github("keithmcnulty/Rmusic")
 ```
+# This is the end of it for me
+
+Hit an error 'no audio drivers are available' and don't feel like fixing it 
+right now, sorry! 
